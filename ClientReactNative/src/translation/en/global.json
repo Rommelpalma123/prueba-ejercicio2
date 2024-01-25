@@ -1,0 +1,16 @@
+{
+  "wifi": "Wifi",
+  "pokemos": "Pokemon Api",
+  "login": "LogIn",
+  "placorreo": "E-mail address",
+  "pass": "Passwork",
+  "botompokemon": "Get ramdom pokemon",
+  "len": "Select a language",
+  "es": "es",
+  "en": "en",
+  "pt": "pt",
+  "botonlogin": "Login",
+  "botoneregister": "Register",
+  "botongoogle": "Sigin with goolge",
+  "nombre": "Name"
+}

@@ -1,0 +1,16 @@
+{
+  "wifi": "Wifi",
+  "pokemos": "Pokemon Api",
+  "placorreo": "Correo Electronico",
+  "login": "Iniciar Sesión",
+  "pass": "Contraseña",
+  "botompokemon": "Obtener pokemon aleatorio",
+  "len": "Seleccione un lenguaje",
+  "es": "es",
+  "en": "en",
+  "pt": "pt",
+  "botonlogin": "Iniciar Sesión",
+  "botoneregister": "Registro",
+  "botongoogle": "Iniciar con goolge",
+  "nombre": "Nombre"
+}
